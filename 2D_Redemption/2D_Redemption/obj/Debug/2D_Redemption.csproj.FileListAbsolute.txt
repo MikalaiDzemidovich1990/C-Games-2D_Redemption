@@ -1,0 +1,13 @@
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\bin\Debug\2D_Redemption.exe.config
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\bin\Debug\2D_Redemption.exe
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\bin\Debug\2D_Redemption.pdb
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.csprojAssemblyReference.cache
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\_2D_Redemption.Form1.resources
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\_2D_Redemption.Properties.Resources.resources
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.csproj.GenerateResource.cache
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.csproj.CoreCompileInputs.cache
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.exe
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.pdb
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\Interop.WMPLib.dll
+C:\Users\mikalai.dzemidovich\source\repos\2D_Redemption\2D_Redemption\obj\Debug\2D_Redemption.csproj.ResolveComReference.cache
